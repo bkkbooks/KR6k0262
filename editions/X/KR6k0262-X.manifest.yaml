@@ -1,0 +1,258 @@
+canonical_identifier: bkk:krp/KR6k0262/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0262/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 戒殺四十八問
+  identifiers:
+    krp: KR6k0262
+    cbeta: X60n1138
+    cbeta_old_id: X60n1138
+    authorityid: CA0001588
+    json_key: X1138
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X60/X60n1138.xml
+    old_id: X60n1138
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0262_000-X.yaml, hash: 'sha256:b757cb63d383c2d34b5ed9823b3be46c51b6feddb605c5a7bbef4de947e269dd'}
+  - {seq: 1, filename: KR6k0262_001-X.yaml, hash: 'sha256:8921b7066bd59a167a39f411b7aec0c6870d673f14cfd8027a0c42be6788f20a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0262_000-X.markers.yaml, hash: 'sha256:cedd74a46c57fe504b91fc6047ca01b80ec62272dba3aeaf0935658d5aa444c1'}
+  - {seq: 1, role: markers, filename: assets/KR6k0262_001-X.markers.yaml, hash: 'sha256:261318d2f40ba8f29c34132d6cf5729f830ddbe6ae3c57fec8661a83327efabf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0262_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 戒殺四十八問目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5267
+  label: 戒殺四十八問并引
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-2
+    span:
+    - body
+    - 327
+    - 327
+  label: 釋生物養人之疑(五問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-3
+    span:
+    - body
+    - 920
+    - 920
+  label: 釋俗見斷殺之疑(六問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-4
+    span:
+    - body
+    - 1379
+    - 1379
+  label: 釋業重難救之疑(五問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-5
+    span:
+    - body
+    - 1984
+    - 1984
+  label: 釋葷血禱神之疑(三問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-6
+    span:
+    - body
+    - 2230
+    - 2230
+  label: 釋享親祭祖之疑(四問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-7
+    span:
+    - body
+    - 2801
+    - 2801
+  label: 釋燕賓違俗之疑(一問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-8
+    span:
+    - body
+    - 3065
+    - 3065
+  label: 釋古聖教殺之疑(二問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-9
+    span:
+    - body
+    - 3278
+    - 3278
+  label: 釋仁民愛物之疑(二問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-10
+    span:
+    - body
+    - 3417
+    - 3417
+  label: 釋因果差別之疑(六問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-11
+    span:
+    - body
+    - 3469
+    - 3469
+  label: 不住持名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-12
+    span:
+    - body
+    - 3539
+    - 3539
+  label: 即禪即佛持名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-13
+    span:
+    - body
+    - 3709
+    - 3709
+  label: 即戒即佛持名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-14
+    span:
+    - body
+    - 3807
+    - 3807
+  label: 即教即佛持名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-15
+    span:
+    - body
+    - 3968
+    - 3968
+  label: 不持而持
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-16
+    span:
+    - body
+    - 4003
+    - 4003
+  label: 持而不持
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-17
+    span:
+    - body
+    - 4166
+    - 4166
+  label: 孤身持名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-18
+    span:
+    - body
+    - 4342
+    - 4342
+  label: 結期持名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-19
+    span:
+    - body
+    - 4720
+    - 4720
+  label: 釋佛理難信之疑(三問)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-20
+    span:
+    - body
+    - 4957
+    - 4957
+  label: 臨終持名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0262_X_001-mulu-21
+    span:
+    - body
+    - 5096
+    - 5096
+  label: 發願懺悔持名
+  type: mulu
+  level: 1
+hash: sha256:3fb76ef01e566a43a6d1f90f77ca496a0eb437380bc3f5bf72586d04e788ed25
