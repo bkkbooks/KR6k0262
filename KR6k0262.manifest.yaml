@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0262/v1
 canonical_location: https://kanripo.org/bkk/KR6k0262/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 戒殺四十八問
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0262_000.yaml, hash: 'sha256:b757cb63d383c2d34b5ed9823b3be46c51b6feddb605c5a7bbef4de947e269dd'}
-  - {seq: 1, filename: KR6k0262_001.yaml, hash: 'sha256:8921b7066bd59a167a39f411b7aec0c6870d673f14cfd8027a0c42be6788f20a'}
+  - {seq: 0, filename: KR6k0262_000.yaml, hash: 'sha256:dcc2e65073f39b7a4b9b5633e81ab0143aa09f32485c858aee218e866b285ef5'}
+  - {seq: 1, filename: KR6k0262_001.yaml, hash: 'sha256:0396b66b08db8dcf716389629af96398290ece652e5677d8a39ccb70ead7c7bc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0262_000.markers.yaml, hash: 'sha256:42dc824ca27fd0945e952466f7463dfd02277e11032622794d0e93e0fab29c5b'}
-  - {seq: 1, role: markers, filename: assets/KR6k0262_001.markers.yaml, hash: 'sha256:7ced0cf9f308a2ff25c0a6c097a97f6c75e4e30ffcac18129f03f4b2399fc3d6'}
+  - {seq: 0, role: markers, filename: assets/KR6k0262_000.markers.yaml, hash: 'sha256:c7e7ab03b4a7a016504ea77c08c813232fa9e3ca75eb073083e94dfe5de93efc'}
+  - {seq: 1, role: markers, filename: assets/KR6k0262_001.markers.yaml, hash: 'sha256:90e1135cc042235d02302cde2b41f441b8ac9d1ffa8b6ddd2f50a78913b020ba'}
 table_of_contents:
 - ref:
     seq: 0
@@ -257,4 +257,7 @@ table_of_contents:
   label: 發願懺悔持名
   type: mulu
   level: 1
-hash: sha256:c8fed0f7e62ecc0417f6f5580cf854792095a66823b7287d38ca55a9f989bc4c
+hash: sha256:b907a430686b2311fc5edd038f5afe2fc0add81b75352a6ffeacdfc69495ba67
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

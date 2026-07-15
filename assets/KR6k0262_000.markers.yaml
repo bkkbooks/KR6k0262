@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR6k0262_X_000-0817a03, ed: X, 'n': 0817a03}
   - {type: line-break, offset: 0, content: '', id: KR6k0262_X_000-0817a04, ed: X, 'n': 0817a04}
   - {type: line-break, offset: 0, content: '', id: KR6k0262_X_000-0400a01, ed: R107, 'n': 0400a01}
+  - {type: substitution, offset: 7, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: line-break, offset: 8, content: '', id: KR6k0262_X_000-0817a05, ed: X, 'n': 0817a05}
   - {type: line-break, offset: 8, content: '', id: KR6k0262_X_000-0400a02, ed: R107, 'n': 0400a02}
   - {type: xml-element, offset: 8, content: '', id: KR6k0262_X_000-bkkxmlele1, name: list, role: open, attrs: {rend: no-marker}}
@@ -86,4 +87,4 @@ markers:
   - {type: line-break, offset: 116, content: '', id: KR6k0262_X_000-0400a09, ed: R107, 'n': 0400a09}
   body: []
   back: []
-hash: sha256:42dc824ca27fd0945e952466f7463dfd02277e11032622794d0e93e0fab29c5b
+hash: sha256:c7e7ab03b4a7a016504ea77c08c813232fa9e3ca75eb073083e94dfe5de93efc
