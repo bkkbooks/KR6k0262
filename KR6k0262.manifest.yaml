@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0262_000.yaml, hash: 'sha256:dcc2e65073f39b7a4b9b5633e81ab0143aa09f32485c858aee218e866b285ef5'}
+  - {seq: 0, filename: KR6k0262_000.yaml, hash: 'sha256:7d8093a0ff4284bd1707485f81b2abfde9c0424021e11ce7dc04ffead2e2a120'}
   - {seq: 1, filename: KR6k0262_001.yaml, hash: 'sha256:0396b66b08db8dcf716389629af96398290ece652e5677d8a39ccb70ead7c7bc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0262_000.markers.yaml, hash: 'sha256:c7e7ab03b4a7a016504ea77c08c813232fa9e3ca75eb073083e94dfe5de93efc'}
+  - {seq: 0, role: markers, filename: assets/KR6k0262_000.markers.yaml, hash: 'sha256:0a5c1af1dbe0065aa574cada63e6f357ddeeb2bdfb530a7ae84f74907eda98c6'}
   - {seq: 1, role: markers, filename: assets/KR6k0262_001.markers.yaml, hash: 'sha256:90e1135cc042235d02302cde2b41f441b8ac9d1ffa8b6ddd2f50a78913b020ba'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0262_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 戒殺四十八問目錄
@@ -257,7 +257,7 @@ table_of_contents:
   label: 發願懺悔持名
   type: mulu
   level: 1
-hash: sha256:b907a430686b2311fc5edd038f5afe2fc0add81b75352a6ffeacdfc69495ba67
+hash: sha256:29b302dec3dbc29d6af89ae42ef18ac0ce198e42be8cc60de9e3a77c86874e64
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
